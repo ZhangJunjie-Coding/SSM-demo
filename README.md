@@ -9,5 +9,6 @@ Demo运行图（部分）：
 ![image](https://user-images.githubusercontent.com/89641149/160644960-8ac2d163-1254-4679-b4a1-d68180a1ef3b.png)
 其中数据校验采用了双端校验，前端使用jQuery进行校验，后端采用JSR303校验
 批量删除功能!
-[Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/89641149/160646591-6451203c-79ba-4c3b-9433-1aa182f1477f.png)
+
 
